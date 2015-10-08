@@ -1,0 +1,8 @@
+Param TAG #post
+
+{
+    "tag": {
+        "title": "Damn",
+        "image": "Dadada"
+    }
+}
